@@ -1,11 +1,13 @@
 # My Website
 
-##Purpose
+# # Purpose
 A portfolio that showcases my current skills and projects
 
-##Built With
-*Html
-*Css
+# # Built With
+* Html
+* Css
 
-##Website
+# # Website
+
 https://fosflowers.github.io/fosters-website/
+
