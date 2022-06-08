@@ -39,10 +39,11 @@ nav {
     overflow:hidden;
 
     background-color: #333;
+
 }
 
 nav a {
-    float: left;
+    float: right;
     display: block;
     color: white;
     text-align: center;
@@ -67,8 +68,9 @@ nav a:hover {
 
 .side {
     flex: 30%;
-    background-color: #f1f1f1;
+    background-color: black;
     padding: 20px;
+    color: white;
 }
 
 /*main column*/
@@ -79,10 +81,38 @@ nav a:hover {
     padding: 20px;
 }
 
-.fakeimg {
-    background-color: #aaa;
+.main img {
     width: 100%;
     padding: 20px;
+}
+
+#horiseon-img {
+    width: 90%;
+    padding: 20px;
+
+}
+.main img:hover{
+
+    scrollbar-highlight-color: #ddd;
+}
+.side img {
+   max-height:200px
+  }
+
+  /* Footer */
+footer {
+    padding: 10px;
+    background: black;
+    text-align: center;
+    color: white;
+  }
+
+  footer a {
+      text-decoration:none;
+      color:white;
+      text-align:center;
+      padding: 10px;
+      display:block;
   }
 
   /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
