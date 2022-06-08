@@ -11,4 +11,4 @@ A portfolio that showcases my current skills and projects
 
 https://fosflowers.github.io/fosters-website/
 
-![image](https://user-images.githubusercontent.com/104596811/172695456-b271a6e5-64ac-4e48-9a95-1462e9bfce2a.png)
+<img width="938" alt="screenshot" src="https://user-images.githubusercontent.com/104596811/172695691-74effaed-2753-4a22-98ff-b89b3876a8b3.png">
